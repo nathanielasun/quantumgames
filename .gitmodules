@@ -1,0 +1,6 @@
+[submodule "qtictactoe"]
+	path = qtictactoe
+	url = https://github.com/nathanielasun/qtictactoe
+[submodule "games/qtictactoe"]
+	path = games/qtictactoe
+	url = https://github.com/nathanielasun/qtictactoe
