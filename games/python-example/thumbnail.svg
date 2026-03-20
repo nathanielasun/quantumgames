@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" fill="none">
+  <rect width="600" height="400" fill="#171717" rx="8"/>
+  <circle cx="200" cy="160" r="25" fill="#e64980" opacity="0.8"/>
+  <circle cx="350" cy="220" r="18" fill="#40c057" opacity="0.8"/>
+  <circle cx="420" cy="140" r="30" fill="#4c6ef5" opacity="0.8"/>
+  <circle cx="150" cy="280" r="15" fill="#fab005" opacity="0.8"/>
+  <circle cx="480" cy="290" r="22" fill="#be4bdb" opacity="0.8"/>
+  <text x="300" y="360" text-anchor="middle" fill="#a3a3a3" font-family="system-ui" font-size="20" font-weight="bold">Python Bouncing Ball</text>
+</svg>

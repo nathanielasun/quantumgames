@@ -1,0 +1,12 @@
+{
+  "slug": "python-example",
+  "title": "Python Bouncing Ball",
+  "description": "A simple bouncing ball demo running Python in the browser via Pyodide.",
+  "type": "python",
+  "entry": "src/main.py",
+  "thumbnail": "thumbnail.svg",
+  "tags": ["python", "demo", "example"],
+  "minPlayers": 1,
+  "maxPlayers": 1,
+  "version": "1.0.0"
+}

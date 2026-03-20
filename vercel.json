@@ -1,0 +1,7 @@
+{
+  "buildCommand": "npm run build:all",
+  "framework": "nextjs",
+  "git": {
+    "submodules": true
+  }
+}

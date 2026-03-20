@@ -1,5 +1,11 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+# Agent files
+AGENTS.md
+CLAUDE.md
+/plans
+IMPLEMENTATION_PLAN.md
+
 # dependencies
 /node_modules
 /.pnp
@@ -34,3 +40,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# auto-generated at build time
+/public/games/
+
+# game submodule node_modules
+/games/*/node_modules
